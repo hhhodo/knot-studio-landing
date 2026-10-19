@@ -151,7 +151,7 @@ export default function KnotHero() {
           <div className="knot-hero__cover">
             <img
               className="knot-hero__cover-img"
-              src="https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/dd6a8939-2130-43a7-b941-3ff5207ef0dc_unnamed.png?v=a5db142b9885112617dda7d2cdb61491"
+              src="/knot-studio-landing/images/unnamed.png"
               alt="뜨개 실 클로즈업"
             />
           </div>

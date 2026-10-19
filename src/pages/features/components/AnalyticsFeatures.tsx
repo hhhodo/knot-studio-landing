@@ -60,7 +60,7 @@ export default function AnalyticsFeatures() {
             viewport={{ once: true }}
           >
             <img
-              src="https://readdy.ai/api/search-image?query=modern%20data%20analytics%20dashboard%20with%20interactive%20charts%20and%20graphs%20showing%20business%20intelligence%20metrics%20with%20clean%20professional%20interface%20on%20computer%20screen&width=600&height=450&seq=feat-analytics-1&orientation=landscape"
+              src="/knot-studio-landing/images/feat-analytics-1.jpg"
               alt="Analytics Dashboard"
               className="w-full h-96 object-cover object-top rounded-2xl shadow-2xl border border-brand-beige"
             />
@@ -134,7 +134,7 @@ export default function AnalyticsFeatures() {
             className="lg:order-1"
           >
             <img
-              src="https://readdy.ai/api/search-image?query=artificial%20intelligence%20machine%20learning%20algorithms%20processing%20data%20visualization%20with%20neural%20network%20patterns%20and%20predictive%20analytics%20charts%20on%20modern%20interface&width=600&height=450&seq=feat-analytics-2&orientation=landscape"
+              src="/knot-studio-landing/images/feat-analytics-2.jpg"
               alt="AI Analytics"
               className="w-full h-96 object-cover object-top rounded-2xl shadow-2xl border border-brand-beige"
             />

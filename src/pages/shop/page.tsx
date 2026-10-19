@@ -72,7 +72,7 @@ export default function ShopPage() {
         <div className="bg-stone-900 py-16 px-6 text-center relative overflow-hidden">
           <div className="absolute inset-0">
             <img
-              src="https://readdy.ai/api/search-image?query=beautiful%20yarn%20shop%20with%20colorful%20wool%20balls%20on%20wooden%20shelves%2C%20craft%20store%20interior%2C%20warm%20cozy%20atmosphere%2C%20knitting%20supplies%20display&width=1440&height=400&seq=shopbg001&orientation=landscape"
+              src="/knot-studio-landing/images/shopbg001.jpg"
               alt=""
               className="w-full h-full object-cover object-top opacity-15"
             />

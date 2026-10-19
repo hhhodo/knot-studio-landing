@@ -30,29 +30,29 @@
 }
 
 .one {
-  background-image: url("https://tornis.robbowen.digital/img/mist.png");
+  background-image: url("/knot-studio-landing/images/tornis-mist.png");
   z-index: 4;
   animation: side 25s linear infinite;
 }
 
 .two {
-  background-image: url("https://tornis.robbowen.digital/img/tree_top.png");
+  background-image: url("/knot-studio-landing/images/tornis-tree_top.png");
   z-index: 3;
 }
 
 .three {
-  background-image: url("https://tornis.robbowen.digital/img/mist.png");
+  background-image: url("/knot-studio-landing/images/tornis-mist.png");
   z-index: 2;
   animation: side 25s linear 5s infinite;
 }
 
 .four {
-  background-image: url("https://tornis.robbowen.digital/img/tree_mid.png");
+  background-image: url("/knot-studio-landing/images/tornis-tree_mid.png");
   z-index: 1;
 }
 
 .five {
-  background-image: url("https://tornis.robbowen.digital/img/tree_base.jpg");
+  background-image: url("/knot-studio-landing/images/tornis-tree_base.jpg");
   z-index: 0;
 }
 

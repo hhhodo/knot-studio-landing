@@ -13,42 +13,42 @@ const cardData = [
     title: 'Analytics',
     description: 'Track user behavior',
     label: 'Insights',
-    image: 'https://readdy.ai/api/search-image?query=minimalist%20data%20analytics%20dashboard%20wireframe%20with%20bold%20green%20and%20brown%20color%20scheme%20showing%20clean%20bar%20charts%20and%20line%20graphs%20on%20warm%20beige%20background%20simple%20modern%20interface%20design%20with%20geometric%20data%20visualization%20elements&width=800&height=600&seq=bento-analytics-warm&orientation=landscape'
+    image: '/knot-studio-landing/images/bento-analytics-warm.jpg'
   },
   {
     color: '#ffffff',
     title: 'Dashboard',
     description: 'Centralized data view',
     label: 'Overview',
-    image: 'https://readdy.ai/api/search-image?query=clean%20dashboard%20prototype%20with%20warm%20natural%20tones%20featuring%20bold%20green%20accent%20colors%20and%20brown%20elements%20displaying%20data%20cards%20metrics%20and%20statistics%20on%20cream%20background%20minimalist%20wireframe%20design%20with%20clear%20typography&width=800&height=600&seq=bento-dashboard-natural&orientation=landscape'
+    image: '/knot-studio-landing/images/bento-dashboard-natural.jpg'
   },
   {
     color: '#ffffff',
     title: 'Collaboration',
     description: 'Work together seamlessly',
     label: 'Teamwork',
-    image: 'https://readdy.ai/api/search-image?query=simple%20collaboration%20interface%20wireframe%20with%20warm%20earthy%20brown%20and%20fresh%20green%20color%20palette%20showing%20user%20avatars%20task%20boards%20and%20communication%20elements%20on%20soft%20beige%20background%20modern%20minimal%20dashboard%20design%20with%20bold%20geometric%20shapes&width=800&height=600&seq=bento-collab-warm&orientation=landscape'
+    image: '/knot-studio-landing/images/bento-collab-warm.jpg'
   },
   {
     color: '#ffffff',
     title: 'Automation',
     description: 'Streamline workflows',
     label: 'Efficiency',
-    image: 'https://readdy.ai/api/search-image?query=workflow%20automation%20dashboard%20mockup%20with%20natural%20warm%20color%20scheme%20bold%20green%20progress%20indicators%20and%20brown%20workflow%20nodes%20on%20cream%20background%20clean%20minimalist%20interface%20design%20with%20simple%20flowchart%20elements%20and%20data%20visualization&width=800&height=600&seq=bento-automation-natural&orientation=landscape'
+    image: '/knot-studio-landing/images/bento-automation-natural.jpg'
   },
   {
     color: '#ffffff',
     title: 'Integration',
     description: 'Connect favorite tools',
     label: 'Connectivity',
-    image: 'https://readdy.ai/api/search-image?query=integration%20dashboard%20wireframe%20with%20warm%20natural%20aesthetic%20featuring%20bold%20green%20connection%20lines%20and%20brown%20interface%20elements%20on%20soft%20beige%20background%20simple%20modern%20design%20showing%20connected%20apps%20and%20API%20endpoints%20with%20clean%20geometric%20layouts&width=800&height=600&seq=bento-integration-warm&orientation=landscape'
+    image: '/knot-studio-landing/images/bento-integration-warm.jpg'
   },
   {
     color: '#ffffff',
     title: 'Security',
     description: 'Enterprise-grade protection',
     label: 'Protection',
-    image: 'https://readdy.ai/api/search-image?query=security%20dashboard%20prototype%20with%20warm%20earthy%20tones%20bold%20green%20status%20indicators%20and%20brown%20shield%20elements%20on%20natural%20beige%20background%20minimalist%20wireframe%20showing%20encryption%20metrics%20authentication%20logs%20and%20security%20analytics%20with%20simple%20bold%20design&width=800&height=600&seq=bento-security-natural&orientation=landscape'
+    image: '/knot-studio-landing/images/bento-security-natural.jpg'
   }
 ];
 

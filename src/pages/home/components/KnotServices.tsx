@@ -6,21 +6,21 @@ const services = [
     desc: '뜨개질이 처음이어도 괜찮아요. 2시간 동안 강사와 함께 나만의 첫 작품을 완성해보세요. 재료 준비 없이 오셔도 됩니다.',
     cta: '예약하기',
     path: '/oneday',
-    image: 'https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/74e0e4a9-c90f-4f8d-b272-9c41fd7900f4_div.w-full.png?v=85223c16d858b64cd5013d8872772a33',
+    image: '/knot-studio-landing/images/div.w-full.png',
   },
   {
     title: '정규 강의',
     desc: '입문부터 자격증 과정까지 체계적인 커리큘럼으로 실력을 키워나가세요. 소규모 맞춤 수업으로 운영됩니다.',
     cta: '시간표 보기',
     path: '/classes',
-    image: 'https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/f8beadf8-a696-4ae3-85db-21054e991437_div.w-full-1.png?v=b177a309ef91f3f40abdc9355b173a56',
+    image: '/knot-studio-landing/images/div.w-full-1.png',
   },
   {
     title: '실 & 도안 샵',
     desc: '엄선된 고품질 실과 전문 도안을 만나보세요. 작품 제작에 필요한 모든 재료를 한 곳에서 만날 수 있습니다.',
     cta: '쇼핑하기',
     path: '/shop',
-    image: 'https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/1eb4b76b-e528-4b1d-9fa7-4cebdfbb1f7c_div.w-full-2.png?v=506a626ad2377f35e8e0d324447d97bd',
+    image: '/knot-studio-landing/images/div.w-full-2.png',
   },
 ];
 

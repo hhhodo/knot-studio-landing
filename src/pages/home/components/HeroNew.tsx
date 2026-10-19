@@ -116,7 +116,7 @@ export default function HeroNew() {
           <div className="hero__cover">
             <img
               className="hero__cover-img"
-              src="https://assets.codepen.io/204808/hobbit-hole.png"
+              src="/knot-studio-landing/images/hobbit-hole.png"
               alt="Hero background"
             />
           </div>

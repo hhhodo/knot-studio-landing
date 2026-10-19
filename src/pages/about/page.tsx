@@ -7,28 +7,28 @@ const instructors = [
     name: '박민정',
     role: '대표 강사 / 공방 대표',
     career: 'TKCA 1급 강사 · 뜨개 경력 15년',
-    image: 'https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/20bb3be2-b9c3-42f1-b818-edb7d8db3258_51.png?v=8210188d2644c95650dc34b2f02b54dd',
+    image: '/knot-studio-landing/images/51.png',
     desc: '뜨개질의 매력에 빠져 15년간 작품 활동과 강의를 병행해왔습니다. 수강생 한 명 한 명의 성장을 가장 큰 보람으로 여깁니다.',
   },
   {
     name: '김수연',
     role: '대바늘 전문 강사',
     career: 'TKCA 1급 강사 · 뜨개 경력 10년',
-    image: 'https://readdy.ai/api/search-image?query=friendly%20korean%20woman%20craft%20instructor%20portrait%2C%20warm%20natural%20light%2C%20knitting%20studio%20background%2C%20approachable%20smile&width=400&height=450&seq=inst002&orientation=portrait',
+    image: '/knot-studio-landing/images/inst002.jpg',
     desc: '대바늘의 섬세한 매력을 전달하는 것이 목표입니다. 초보자도 쉽게 따라올 수 있는 친절한 수업을 진행합니다.',
   },
   {
     name: '이지은',
     role: '코바늘 전문 강사',
     career: 'TKCA 2급 강사 · 뜨개 경력 8년',
-    image: 'https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/b2f91579-aa0e-4d9a-8130-5c87c820ca65_53.png?v=590e2a2375454cee52dbcd6cb27e16e0',
+    image: '/knot-studio-landing/images/53.png',
     desc: '코바늘로 만들 수 있는 무한한 가능성을 함께 탐구합니다. 아미구루미부터 패션 아이템까지 다양하게 가르칩니다.',
   },
   {
     name: '최하늘',
     role: '소품 & 인형 전문 강사',
     career: 'TKCA 2급 강사 · 뜨개 경력 6년',
-    image: 'https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/7962dd95-59bf-45f0-89f7-6884063995fb_54.png?v=d7ec12150b33a9d640d6814247a0fecc',
+    image: '/knot-studio-landing/images/54.png',
     desc: '귀여운 소품과 인형 제작을 전문으로 합니다. 선물용 작품 만들기를 좋아하는 분들께 특히 추천드립니다.',
   },
 ];
@@ -57,7 +57,7 @@ export default function AboutPage() {
         <div className="bg-stone-900 py-16 px-6 text-center relative overflow-hidden">
           <div className="absolute inset-0">
             <img
-              src="https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/0fd94f71-c10f-4bfd-9bd2-d9b3df879538_34.png?v=fed45157aa214067c11d0384384a28ce"
+              src="/knot-studio-landing/images/34.png"
               alt=""
               className="w-full h-full object-cover object-top"
             />
@@ -121,28 +121,28 @@ export default function AboutPage() {
               <div className="grid grid-cols-2 gap-4">
                 <div className="w-full rounded-xl overflow-hidden" style={{ aspectRatio: '4/3' }}>
                   <img
-                    src="https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/d859b7f0-b519-4832-8207-fa30065c9c18_55.png?v=fa82e01f81148f7e38f3950c87c2735a"
+                    src="/knot-studio-landing/images/55.png"
                     alt=""
                     className="w-full h-full object-cover object-top"
                   />
                 </div>
                 <div className="w-full rounded-xl overflow-hidden mt-6" style={{ aspectRatio: '4/3' }}>
                   <img
-                    src="https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/0a9d707e-edb6-42d8-a6e3-3c900e413bea_56.png?v=e7d214111d9ed281d8d6b4f2516063a1"
+                    src="/knot-studio-landing/images/56.png"
                     alt=""
                     className="w-full h-full object-cover object-top"
                   />
                 </div>
                 <div className="w-full rounded-xl overflow-hidden" style={{ aspectRatio: '4/3' }}>
                   <img
-                    src="https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/68ea71aa-95a4-41d5-afa9-50de40070002_57.png?v=60c12f40aaf765d0d3149398937807ec"
+                    src="/knot-studio-landing/images/57.png"
                     alt=""
                     className="w-full h-full object-cover object-top"
                   />
                 </div>
                 <div className="w-full rounded-xl overflow-hidden mt-6" style={{ aspectRatio: '4/3' }}>
                   <img
-                    src="https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/83efd2da-a81d-4333-9d40-a4678232486f_58.png?v=eb6c4914357e7754044548978e483dad"
+                    src="/knot-studio-landing/images/58.png"
                     alt=""
                     className="w-full h-full object-cover object-top"
                   />
@@ -267,7 +267,7 @@ export default function AboutPage() {
     minHeight: '380px',
     padding: '80px 16px',
 
-    backgroundImage: "url('https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/3039f807-4444-4df5-8111-6f475edc228c_60.png?v=6ee720473a4dd98556af49b5496bdf04')",
+    backgroundImage: "url('/knot-studio-landing/images/60.png')",
     backgroundSize: 'cover',
     backgroundPosition: 'center',
     backgroundRepeat: 'no-repeat'

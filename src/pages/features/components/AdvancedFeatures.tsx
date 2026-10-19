@@ -7,7 +7,7 @@ export default function AdvancedFeatures() {
       title: 'Natural Language Queries',
       description: 'Ask questions in plain English and get instant answers. Our AI understands context and intent, making data exploration as easy as having a conversation.',
       icon: 'ri-chat-3-line',
-      image: 'https://readdy.ai/api/search-image?query=minimalist%20clean%20interface%20showing%20natural%20language%20query%20input%20with%20simple%20text%20responses%2C%20white%20background%2C%20neutral%20grey%20accents%2C%20modern%20typography%2C%20professional%20business%20intelligence%20dashboard&width=600&height=400&seq=nlp-feature&orientation=landscape',
+      image: '/knot-studio-landing/images/nlp-feature.jpg',
       capabilities: [
         'Natural language processing for intuitive queries',
         'Context-aware AI that remembers conversation history',
@@ -19,7 +19,7 @@ export default function AdvancedFeatures() {
       title: 'Automated Report Generation',
       description: 'Schedule reports to be generated and delivered automatically. Customize templates, set delivery schedules, and ensure stakeholders always have the latest insights.',
       icon: 'ri-file-chart-line',
-      image: 'https://readdy.ai/api/search-image?query=clean%20automated%20report%20generation%20interface%20with%20calendar%20scheduling%2C%20white%20background%2C%20neutral%20grey%20tones%2C%20minimalist%20design%2C%20professional%20document%20templates%2C%20modern%20business%20aesthetic&width=600&height=400&seq=report-feature&orientation=landscape',
+      image: '/knot-studio-landing/images/report-feature.jpg',
       capabilities: [
         'Flexible scheduling with custom time zones',
         'Customizable report templates and branding',
@@ -31,7 +31,7 @@ export default function AdvancedFeatures() {
       title: 'Custom Visualizations',
       description: 'Create stunning custom visualizations with our advanced charting engine. From basic bar charts to complex network diagrams, bring your data to life.',
       icon: 'ri-pie-chart-line',
-      image: 'https://readdy.ai/api/search-image?query=elegant%20data%20visualization%20dashboard%20with%20various%20chart%20types%2C%20white%20background%2C%20neutral%20grey%20and%20black%20color%20scheme%2C%20minimalist%20modern%20design%2C%20clean%20professional%20interface&width=600&height=400&seq=viz-feature&orientation=landscape',
+      image: '/knot-studio-landing/images/viz-feature.jpg',
       capabilities: [
         '50+ chart types and visualization options',
         'Interactive and responsive charts',
@@ -43,7 +43,7 @@ export default function AdvancedFeatures() {
       title: 'Data Quality Monitoring',
       description: 'Automatically detect and alert on data quality issues. Track completeness, accuracy, and consistency across all your data sources.',
       icon: 'ri-shield-check-line',
-      image: 'https://readdy.ai/api/search-image?query=clean%20data%20quality%20monitoring%20dashboard%20showing%20metrics%20and%20alerts%2C%20white%20background%2C%20neutral%20grey%20tones%2C%20minimalist%20interface%20design%2C%20professional%20business%20intelligence%20aesthetic&width=600&height=400&seq=quality-feature&orientation=landscape',
+      image: '/knot-studio-landing/images/quality-feature.jpg',
       capabilities: [
         'Automatic anomaly detection and alerts',
         'Data completeness and accuracy tracking',

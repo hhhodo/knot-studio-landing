@@ -15,7 +15,7 @@ export default function KnotAboutSection() {
           <div>
             <div className="w-full rounded-xl overflow-hidden" style={{ aspectRatio: '4/3' }}>
               <img
-                src="https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/fbc9fe37-dee7-4fc7-b2b7-757cb6d76665_7.png?v=053f2d5279cbe39ed1697e2795f64be5"
+                src="/knot-studio-landing/images/7.png"
                 alt="Knot Studio 공방 내부"
                 className="w-full h-full object-cover object-top"
               />

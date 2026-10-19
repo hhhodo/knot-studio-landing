@@ -24,7 +24,7 @@
 
 /* Background image (blurred initially) */
 .knot-hero__bg {
-  background-image: url("https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/2151e813-25c6-463d-afd1-d847b1547510_div.knot-hero__bg.png?v=5416924d669feb402eb105d3136e2abe");
+  background-image: url("/knot-studio-landing/images/div.knot-hero__bg.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

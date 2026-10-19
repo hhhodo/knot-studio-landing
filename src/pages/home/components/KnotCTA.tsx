@@ -34,7 +34,7 @@ export default function KnotCTA() {
 
           <div className="w-full rounded-xl overflow-hidden" style={{ aspectRatio: '4/3' }}>
             <img
-              src="https://readdy.ai/api/search-image?query=person%20happily%20knitting%20for%20the%20first%20time%2C%20hands%20holding%20yarn%20and%20knitting%20needles%2C%20bright%20cozy%20studio%2C%20warm%20natural%20lighting%2C%20soft%20focus%20background%20with%20yarn%20basket&width=700&height=525&seq=cta002&orientation=landscape"
+              src="/knot-studio-landing/images/cta002.jpg"
               alt="뜨개질 시작하기"
               className="w-full h-full object-cover object-top"
             />

@@ -26,7 +26,7 @@ export default function ClassesPage() {
           <div className="absolute inset-0">
             <div className="absolute inset-0 w-full h-full object-cover bg-linear-to-b from-5% to-indigo-700"></div>
             <img
-              src="https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/fbe22223-07cc-4fb4-bd14-60d9592b3abe_31.png?v=4f5db1bb0fab14cfcf559e018981ee06"
+              src="/knot-studio-landing/images/31.png"
               alt=""
               className="w-full h-full object-cover object-top opacity-100"
             />

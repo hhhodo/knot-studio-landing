@@ -11,7 +11,7 @@ export default function ContactPage() {
         <div className="bg-stone-900 py-16 px-6 text-center relative overflow-hidden">
           <div className="absolute inset-0">
             <img
-              src="https://readdy.ai/api/search-image?query=cozy%20knitting%20studio%20interior%20with%20wooden%20table%20and%20yarn%20baskets%2C%20warm%20ambient%20lighting%2C%20inviting%20craft%20space%20atmosphere%2C%20soft%20natural%20tones&width=1440&height=400&seq=contactbg001&orientation=landscape"
+              src="/knot-studio-landing/images/shopbg001.jpg"
               alt=""
               className="w-full h-full object-cover object-top opacity-15"
             />

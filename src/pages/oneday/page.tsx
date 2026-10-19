@@ -9,28 +9,28 @@ const programs = [
       desc: '기본 코잡기부터 컵받침 완성까지. 뜨개질이 처음이어도 2시간이면 충분합니다.',
       duration: '2시간',
       price: '35,000원',
-      image: 'https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/80fb8a22-3fb3-4b96-a6db-4e4e12af0096_21.png?v=e3a338d6e465ba135a21cc127bb5d68b',
+      image: '/knot-studio-landing/images/21.png',
     },
     {
       title: '코바늘 뜨개 체험',
       desc: '코바늘로 귀여운 컵받침 만들기. 도구 사용법부터 작품 완성까지 함께합니다.',
       duration: '2시간',
       price: '35,000원',
-      image: 'https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/7c584df6-2b03-486c-a00a-6799ea6c548c_22.png?v=3d3c1dd5faf357b6df0fa27dd8a7df40',
+      image: '/knot-studio-landing/images/22.png',
     },
     {
       title: '아미구루미 체험',
       desc: '코바늘로 귀여운 동물 인형 만들기. 선물하기 딱 좋은 소품 완성 수업입니다.',
       duration: '2시간',
       price: '40,000원',
-      image: 'https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/8398012d-8932-4843-a08a-4d305c9b8fa0_23.png?v=b9fe40e11a48a6c608e5d55e6bb0ef3c',
+      image: '/knot-studio-landing/images/23.png',
     },
     {
       title: '코바늘 가방 체험',
       desc: '나만의 미니 가방 완성하기. 소재 선택부터 마무리까지 강사가 함께합니다.',
       duration: '2시간',
       price: '45,000원',
-      image: 'https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/37f177af-fa9f-4d17-9368-5bb5f514ea95_24.png?v=a2e500b1b901f6f10fbcab4e44382e35',
+      image: '/knot-studio-landing/images/24.png',
     },
   ];
 
@@ -57,7 +57,7 @@ const programs = [
         <div className="bg-stone-900 py-16 px-6 text-center relative overflow-hidden">
           <div className="absolute inset-0">
             <img
-              src="https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/45f9658e-44cd-43a0-8369-c730fd6fc024_32.png?v=3cbc57cdef229e4763e4dc37c6c13c21"
+              src="/knot-studio-landing/images/32.png"
               alt=""
               className="w-full h-full object-cover object-top"
             />

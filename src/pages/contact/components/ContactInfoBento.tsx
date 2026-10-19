@@ -162,7 +162,7 @@ export default function ContactInfoBento() {
           <div className="space-y-6">
             <div className="w-full rounded-xl overflow-hidden" style={{ aspectRatio: '4/3' }}>
               <img
-                src="https://readdy.ai/api/search-image?query=cozy%20knitting%20studio%20interior%20with%20yarn%20baskets%20wooden%20shelves%20natural%20light%20plants%20handmade%20items%20displayed%20inviting%20craft%20workspace%20warm%20tones&width=700&height=525&seq=contact002&orientation=landscape"
+                src="/knot-studio-landing/images/shopbg001.jpg"
                 alt="Knot Studio"
                 className="w-full h-full object-cover object-top"
               />

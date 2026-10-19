@@ -4,7 +4,7 @@ const caseStudies = [
   {
     company: 'TechCorp',
     industry: 'Technology',
-    image: 'https://readdy.ai/api/search-image?query=professional%20diverse%20business%20team%20of%20technology%20professionals%20smiling%20together%20in%20modern%20tech%20office%2C%20happy%20collaborative%20work%20environment%20with%20natural%20warm%20lighting%2C%20contemporary%20corporate%20setting%20with%20beige%20and%20green%20natural%20tones%2C%20authentic%20candid%20group%20photo%20showing%20teamwork%20and%20success&width=600&height=400&seq=casestudy-techcorp-team-v1&orientation=landscape',
+    image: '/knot-studio-landing/images/casestudy-techcorp-team-v1.jpg',
     metrics: [
       { value: '300%', label: 'Productivity increase' },
       { value: '85%', label: 'Cost reduction' },
@@ -16,7 +16,7 @@ const caseStudies = [
   {
     company: 'Innovatech',
     industry: 'Finance',
-    image: 'https://readdy.ai/api/search-image?query=professional%20finance%20team%20of%20business%20professionals%20smiling%20and%20celebrating%20success%20in%20modern%20corporate%20office%2C%20diverse%20group%20of%20colleagues%20working%20together%20with%20laptops%20and%20data%20displays%2C%20warm%20natural%20lighting%20with%20beige%20and%20green%20tones%2C%20authentic%20workplace%20photography%20showing%20achievement%20and%20collaboration&width=600&height=400&seq=casestudy-innovatech-team-v1&orientation=landscape',
+    image: '/knot-studio-landing/images/casestudy-innovatech-team-v1.jpg',
     metrics: [
       { value: '400%', label: 'Revenue growth' },
       { value: '90%', label: 'Operational efficiency' },
