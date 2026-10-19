@@ -1,0 +1,125 @@
+:root {
+  --knot-overlay-opacity: 1;
+}
+
+/* Hero container wrapper */
+.knot-hero-container {
+  position: relative;
+}
+
+/* Hero section */
+.knot-hero {
+  position: relative;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* Full-screen hero content */
+.knot-hero__content {
+  height: 100vh;
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+}
+
+/* Background image (blurred initially) */
+.knot-hero__bg {
+  background-image: url("https://storage.readdy-site.link/project_files/bdcd8a41-b885-4724-bbbc-20c1820250ba/2151e813-25c6-463d-afd1-d847b1547510_div.knot-hero__bg.png?v=5416924d669feb402eb105d3136e2abe");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  filter: blur(4px) brightness(1.3);
+  position: absolute;
+  inset: 0;
+  will-change: filter;
+}
+
+/* Title styling */
+.knot-hero__title {
+  color: #fff;
+  filter: blur(12px);
+  font-size: clamp(2.8rem, 12vw, 9rem);
+  line-height: 1.15;
+  left: 50%;
+  margin: 0;
+  opacity: 0;
+  padding: 0;
+  position: absolute;
+  top: 50vh;
+  transform: translate(-50%, -50%) scale(0.5);
+  z-index: 1;
+  text-align: center;
+  white-space: nowrap;
+}
+
+/* Cover overlay */
+.knot-hero__cover {
+  --overlay-opacity: 1;
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100vh;
+  width: 100vw;
+  perspective: 500px;
+  overflow: hidden;
+  z-index: 2;
+}
+
+/* Dark radial fade */
+.knot-hero__cover::after {
+  background: radial-gradient(
+    circle,
+    rgba(0, 0, 0, 0) 20%,
+    rgba(0, 0, 0, 0.95) 90%
+  );
+  content: "";
+  inset: 0;
+  opacity: var(--overlay-opacity);
+  position: absolute;
+  pointer-events: none;
+}
+
+/* Cover image */
+.knot-hero__cover-img {
+  height: 100%;
+  object-fit: cover;
+  width: 100%;
+  pointer-events: none;
+}
+
+/* Subtitle below title */
+.knot-hero__subtitle {
+  position: absolute;
+  left: 50%;
+  top: calc(50vh + clamp(2.8rem, 12vw, 9rem) * 0.7);
+  transform: translateX(-50%);
+  z-index: 1;
+  opacity: 0;
+  text-align: center;
+  width: 100%;
+}
+
+/* CTA buttons */
+.knot-hero__cta {
+  position: absolute;
+  left: 50%;
+  bottom: 12vh;
+  transform: translateX(-50%);
+  z-index: 1;
+  opacity: 0;
+  display: flex;
+  gap: 1rem;
+  white-space: nowrap;
+}
+
+/* Scroll indicator */
+.knot-hero__scroll {
+  position: absolute;
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 1;
+  opacity: 0;
+}
+
+
